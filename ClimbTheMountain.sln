@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbTheMountain", "Assembly-CSharp.csproj", "{949E9632-DD6F-5896-F35E-9E508B31ACCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{949E9632-DD6F-5896-F35E-9E508B31ACCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{949E9632-DD6F-5896-F35E-9E508B31ACCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{949E9632-DD6F-5896-F35E-9E508B31ACCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{949E9632-DD6F-5896-F35E-9E508B31ACCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
